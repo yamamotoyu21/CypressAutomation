@@ -2,7 +2,7 @@
 
 context("Window", () => { 
     beforeEach(() => {
-        cy.visit('https://www.agoda.com/?cid=1844104')
+        cy.visit('https://meetsmore.com/')
     })
 
     it('open in mac 15', () => {
